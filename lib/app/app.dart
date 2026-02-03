@@ -1,5 +1,5 @@
 import 'package:flutter/material.dart';
-
+import 'package:histofish_app/core/theme/app_theme.dart';
 // app.dart: o “widget raiz” (onde fica o MaterialApp, tema, rotas, providers etc.)
 
 class MyApp extends StatelessWidget {
@@ -11,11 +11,7 @@ class MyApp extends StatelessWidget {
     return MaterialApp(
       title: 'HistoFish',
       locale: const Locale("pt", "BR"),
-      theme: ThemeData(
-        // This is the theme of your application.
-       
-        colorScheme: .fromSeed(seedColor: Colors.blue),
-      ),
+      theme: appTheme(),
       home: const MyHomePage(title: 'HistoFish Home Page'),
     );
   }
