@@ -1,0 +1,20 @@
+{
+    "title": "Orgãos Alvo",
+    "items": [
+        {
+            "id": "gills",
+            "name": "Brânquias",
+            "description": ""
+        },
+        {
+            "id": "liver",
+            "name": "Fígado",
+            "description": ""
+        },
+        {
+            "id": "kidney",
+            "name": "Rim",
+            "description": ""
+        }
+    ]
+}

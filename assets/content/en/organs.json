@@ -1,0 +1,20 @@
+{
+    "title": "Target Organs",
+    "items": [
+        {
+            "id": "gills",
+            "name": "Gills",
+            "description": ""
+        },
+        {
+            "id": "liver",
+            "name": "Liver",
+            "description": ""
+        },
+        {
+            "id": "kidney",
+            "name": "Kidney",
+            "description": ""
+        }
+    ]
+}

@@ -13,9 +13,9 @@ class LanguageSelectionPage extends StatelessWidget {
         child: Column(
           mainAxisAlignment: .center,
           children: [
-            const Text('Selecione o Idioma', style: TextStyle(fontSize: 25, fontWeight: FontWeight.bold) ,),
-            ElevatedButton(onPressed: () => context.push('/viewer'), child: Text('Português-BR')),
-            ElevatedButton(onPressed: () => context.push('/viewer'), child: Text('English')),
+            const Text('Selecione o Idioma', style: TextStyle(fontSize: 25, fontWeight: FontWeight.bold)),
+            ElevatedButton(onPressed: () => context.go('/viewer'), child: Text('Português-BR')),
+            ElevatedButton(onPressed: () => context.go('/viewer'), child: Text('English')),
           ],
         )
       ),

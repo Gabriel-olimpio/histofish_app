@@ -2,7 +2,8 @@
 import 'package:flutter/material.dart';
 
 class NormalTissuePage extends StatelessWidget {
-  const NormalTissuePage({super.key, required String organId});
+  final String organId;
+  const NormalTissuePage({super.key, required this.organId});
 
   @override
   Widget build(BuildContext context) {
