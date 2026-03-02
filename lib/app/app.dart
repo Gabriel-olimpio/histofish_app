@@ -1,20 +1,33 @@
 import 'package:flutter/material.dart';
 import 'package:go_router/go_router.dart';
-import 'package:histofish_app/core/routing/app_router.dart';
+import 'package:histofish_app/core/i18n/app_language.dart';
+import 'package:histofish_app/core/routing/app_paths.dart';
+import 'package:histofish_app/core/settings/app_settings.dart';
 import 'package:histofish_app/core/theme/app_theme.dart';
+import 'package:provider/provider.dart';
 // app.dart: o “widget raiz” (onde fica o MaterialApp, tema, rotas, providers etc.)
 
 class MyApp extends StatelessWidget {
-  const MyApp({super.key});
+
+  final GoRouter router;
+
+  const MyApp({super.key, required this.router});
 
   // This widget is the root of your application.
   @override
   Widget build(BuildContext context) {
+    final settings = context.watch<AppSettings>();
+
+    final locale = settings.currentLanguage == null
+      ? null
+      : Locale(settings.currentLanguage!.code);
+
+
     return MaterialApp.router(
       title: 'HistoFish',
-      locale: const Locale("pt", "BR"),
       theme: appTheme(),
-      routerConfig: appRoutes,
+      routerConfig: router,
+      locale: locale,
     );
   }
 }
@@ -33,11 +46,12 @@ class MyHomePage extends StatelessWidget {
       ),
       body: Center(
         child: Column(
-          mainAxisAlignment: .center,
+          mainAxisAlignment: MainAxisAlignment.center,
           children: [
             const Text('Seja bem-vindo!', style: TextStyle(fontSize: 30, color: Colors.blueAccent, fontWeight: FontWeight.bold),),
+            const SizedBox(height: 16,),
             ElevatedButton(
-              onPressed: () => context.push('/language'),
+              onPressed: () => context.push(AppPaths.language),
               child: const Text("Continuar"),
               ),
           ],
