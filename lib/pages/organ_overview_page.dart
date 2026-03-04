@@ -7,13 +7,15 @@ class OrganOverviewPage  extends StatelessWidget {
   final String organId;
   const OrganOverviewPage({super.key, required this.organId});
 
+  // adicionar logica para mudar o idioma dos textos
+
   @override
   Widget build(BuildContext context) {
     return Scaffold(
       appBar: AppBar(title: Text('Orgão: $organId')),
       body: Center(
         child: Column(
-          mainAxisAlignment: .center,
+          mainAxisAlignment: MainAxisAlignment.center,
           children: [
             Text('Overview do $organId'),
             ElevatedButton(onPressed: () => context.push(AppPaths.normal(organId)), child: Text("Tecido Normal")),

@@ -12,7 +12,7 @@ class AlterationsListPage extends StatelessWidget {
       appBar: AppBar(title: Text('Alterações'),),
       body: Center(
         child: Column(
-          mainAxisAlignment: .center,
+          mainAxisAlignment: MainAxisAlignment.center,
           children: [
             ElevatedButton(onPressed: () => context.push(AppPaths.alterationsDetail(organId, 'hyperplasia')), child: Text('Hyperplasia')),
           ],

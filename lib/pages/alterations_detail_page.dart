@@ -4,7 +4,7 @@ class AlterationsDetailPage extends StatelessWidget {
   final String organId;
   final String alterationId;
   const AlterationsDetailPage({super.key, required this.organId, required this.alterationId});
-
+  
 
   @override
   Widget build(BuildContext context) {
