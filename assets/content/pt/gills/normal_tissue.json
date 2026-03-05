@@ -1,6 +1,6 @@
 {
     "organId": "gills",
-    "title": "",
+    "title": "Tecido Normal",
     "caption": "",
     "image": "",
     "imageMeta": {
@@ -9,8 +9,8 @@
         "stain": ""
     },
     "keyFeatures": [
-        "1 - ",
-        "2 - ",
-        "3 - "
+        "Primeiro ponto ",
+        "Segundo Ponto ",
+        "Terceiro Ponto "
     ]
 }

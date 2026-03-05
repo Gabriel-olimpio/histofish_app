@@ -71,7 +71,15 @@ flutter:
     - assets/content/en/liver/
     - assets/content/en/kidney/
 
-    - assets/images/
+    - assets/images/organs/gills/normal/
+    - assets/images/organs/gills/alterations/
+
+    - assets/images/organs/kidney/normal/
+    - assets/images/organs/kidney/alterations/
+
+    - assets/images/organs/liver/normal/
+    - assets/images/organs/liver/alterations/
+
     - assets/icons/
 
   # To add assets to your application, add an assets section, like this:
