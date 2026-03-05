@@ -1,0 +1,20 @@
+{
+    "title": "Órgãos Alvo",
+    "items": [
+        {
+            "id": "gills",
+            "name": "Brânquias",
+            "description": "descrição branquial"
+        },
+        {
+            "id": "liver",
+            "name": "Fígado",
+            "description": "uns figados"
+        },
+        {
+            "id": "kidney",
+            "name": "Rim",
+            "description": "uns rins"
+        }
+    ]
+}
