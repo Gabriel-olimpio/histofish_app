@@ -4,137 +4,137 @@
     "items": [
         {
             "id": "1",
-            "title": "",
-            "caption": "",
+            "title": "Degeneração citoplasmática das células tubulares",
+            "caption": "Alteração degenerativa com perda da estrutura normal do citoplasma das células tubulares renais.",
             "image": "",
             "imageMeta": {
-                "label": "",
-                "magnification": "",
-                "stain": "",
+                "label": "Degeneração citoplasmática das células tubulares",
+                "magnification": "40X",
+                "stain": "(HE)",
                 "iconKey": "",
-                "iconDescription": ""
+                "iconDescription": "Deterioração citoplasmática das células tubulares"
             }
         },
         {
             "id": "2",
-            "title": "",
-            "caption": "",
+            "title": "Centro de Melanomacrófagos",
+            "caption": "Agregados de macrófagos contendo pigmentos (melanina, lipofuscina, hemossiderina)",
             "image": "",
             "imageMeta": {
-                "label": "",
-                "magnification": "",
-                "stain": "",
+                "label": "Centro de Melanomacrófagos",
+                "magnification": "40X",
+                "stain": "(HE)",
                 "iconKey": "",
-                "iconDescription": ""
+                "iconDescription": "Vários CMM"
             }
         },
         {
             "id": "3",
-            "title": "",
-            "caption": "",
+            "title": "Aumento do espaço da cápsula de bowman",
+            "caption": "Dilatação do espaço entre a cápsula de Bowman e o glomérulo",
             "image": "",
             "imageMeta": {
-                "label": "",
-                "magnification": "",
-                "stain": "",
+                "label": "Aumento do espaço da cápsula de Bowman ",
+                "magnification": "40X",
+                "stain": "(HE)",
                 "iconKey": "",
-                "iconDescription": ""
+                "iconDescription": "Dilatação do espaço entre a cápsula e o glomérulo"
             }
         },
         {
             "id": "4",
-            "title": "",
-            "caption": "",
+            "title": "Obstrução tubular",
+            "caption": "Bloqueio parcial ou completo da luz dos túbulos renais.",
             "image": "",
             "imageMeta": {
-                "label": "",
-                "magnification": "",
-                "stain": "",
+                "label": "Obstrução tubular",
+                "magnification": "40X",
+                "stain": "(HE)",
                 "iconKey": "",
-                "iconDescription": ""
+                "iconDescription": "Bloqueio da luz nos túbulos renais"
             }
         },
         {
             "id": "5",
-            "title": "",
-            "caption": "",
+            "title": "Aumento do lúmen tubular",
+            "caption": "Dilatação do lúmen dos túbulos renais..",
             "image": "",
             "imageMeta": {
-                "label": "",
-                "magnification": "",
-                "stain": "",
+                "label": "Aumento do lúmen tubular",
+                "magnification": "40X ",
+                "stain": "(HE)",
                 "iconKey": "",
-                "iconDescription": ""
+                "iconDescription": "Grande dilatação do lúmen tubular"
             }
         },
         {
             "id": "6",
-            "title": "",
-            "caption": "",
+            "title": "Dilatação dos vasos sanguíneos",
+            "caption": "Aumento do calibre dos vasos sanguíneos renais (não apenas capilares)",
             "image": "",
             "imageMeta": {
-                "label": "",
-                "magnification": "",
-                "stain": "",
+                "label": "Dilatação dos vasos sanguíneos",
+                "magnification": "40X",
+                "stain": "(HE)",
                 "iconKey": "",
-                "iconDescription": ""
+                "iconDescription": "Aumento do vaso sanguíneo"
             }
         },
         {
             "id": "7",
-            "title": "",
-            "caption": "",
+            "title": "Hiperemia",
+            "caption": "Aumento do fluxo sanguíneo local, com acúmulo de sangue nos vasos",
             "image": "",
             "imageMeta": {
-                "label": "",
-                "magnification": "",
-                "stain": "",
+                "label": "Hiperemia",
+                "magnification": "40X ",
+                "stain": "(HE)",
                 "iconKey": "",
-                "iconDescription": ""
+                "iconDescription": "Grande fluxo sanguíneo no tecido renal"
             }
         },
         {
             "id": "8",
-            "title": "",
-            "caption": "",
+            "title": "Ruptura dos vasos sanguíneos",
+            "caption": "Perda da integridade da parede dos vasos, com extravasamento de sangue.",
             "image": "",
             "imageMeta": {
-                "label": "",
-                "magnification": "",
-                "stain": "",
+                "label": "Ruptura dos vasos sanguíneos",
+                "magnification": "40X ",
+                "stain": "(HE)",
                 "iconKey": "",
-                "iconDescription": ""
+                "iconDescription": "Extravasamento do sangue no tecido"
             }
         },
         {
             "id": "9",
-            "title": "",
-            "caption": "",
+            "title": "Desorganização tubular",
+            "caption": "Perda da arquitetura normal dos túbulos renais.",
             "image": "",
             "imageMeta": {
-                "label": "",
-                "magnification": "",
-                "stain": "",
+                "label": "Desorganização tubular",
+                "magnification": "40X",
+                "stain": "(HE)",
                 "iconKey": "",
-                "iconDescription": ""
+                "iconDescription": "Perda da estrutura normal dos túbulos renais"
             }
         },
         {
             "id": "10",
-            "title": "",
-            "caption": "",
+            "title": "Necrose",
+            "caption": "Morte celular não programada, com lise celular.",
             "image": "",
             "imageMeta": {
-                "label": "",
-                "magnification": "",
-                "stain": "",
+                "label": "Necrose",
+                "magnification": "40X",
+                "stain": "(HE)",
                 "iconKey": "",
-                "iconDescription": ""
+                "iconDescription": "Lise celular no tecido renal"
             }
         },
         {
             "id": "11",
-            "title": "",
+            "title": "Dilatação dos Capilares",
             "caption": "",
             "image": "",
             "imageMeta": {

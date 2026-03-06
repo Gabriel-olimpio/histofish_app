@@ -1,6 +1,7 @@
 import 'package:histofish_app/data/models/alterations_catalog_model.dart';
 import 'package:histofish_app/data/models/normal_tissue_model.dart';
 import 'package:histofish_app/data/models/organs_catalog.dart';
+import 'package:histofish_app/data/models/presentation_model.dart';
 import 'package:histofish_app/data/sources/asset_json_loader.dart';
 
 class ContentRepository {
@@ -37,5 +38,11 @@ class ContentRepository {
     final path = 'assets/content/$langCode/$organId/alterations.json';
     final map = await _loadCached(path);
     return AlterationsCatalogModel.fromJson(map);
+  }
+
+  Future<PresentationModel> getPresentation(String langCode) async {
+  final path = 'assets/content/$langCode/presentation.json';
+  final map = await _loadCached(path);
+  return PresentationModel.fromJson(map);
   }
 }

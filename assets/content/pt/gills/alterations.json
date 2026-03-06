@@ -4,132 +4,132 @@
     "items": [
         {
             "id": "1",
-            "title": "",
-            "caption": "",
+            "title": "Levantamento do epitélio respiratório",
+            "caption": "Ocorre quando o epitélio que reveste as lamelas se eleva além das células pilares, aumentando a distância entre o sangue e o meio externo. A elevação epitelial é considerada uma das primeiras alterações observadas quando o animal está sob estresse, prejudicando a capacidade respiratória desse órgão.",
             "image": "",
             "imageMeta": {
-                "label": "",
-                "magnification": "",
-                "stain": "",
+                "label": "Levantamento do epitélio respiratório",
+                "magnification": "40X",
+                "stain": "(HE)",
                 "iconKey": "",
-                "iconDescription": ""
+                "iconDescription": "Elevação epitelial"
             }
         },
         {
             "id": "2",
-            "title": "",
-            "caption": "",
+            "title": "Congestão de vasos sanguíneos",
+            "caption": "Acontece quando se tem um aumento significativo do fluxo sanguíneo para o interior das lamelas ou devido à presença de um contaminante direto. Isso pode levar à desorganização das células pilares ou até mesmo à sua ruptura.",
             "image": "",
             "imageMeta": {
-                "label": "",
-                "magnification": "",
-                "stain": "",
+                "label": "Congestão de vasos sanguíneos",
+                "magnification": "40X",
+                "stain": "(HE)",
                 "iconKey": "",
-                "iconDescription": ""
+                "iconDescription": "Aumento significativo do fluxo sangúineo"
             }
         },
         {
             "id": "3",
-            "title": "",
-            "caption": "",
+            "title": "Hiperplasia do epitélio lamelar",
+            "caption": "Proliferação excessiva das células resultando ao aumento da espessura da lamela, reduzindo o espaço disponível para a passagem da água.",
             "image": "",
             "imageMeta": {
-                "label": "",
-                "magnification": "",
-                "stain": "",
+                "label": "Hiperplasia do epitélio lamelar",
+                "magnification": "40X",
+                "stain": "(HE)",
                 "iconKey": "",
-                "iconDescription": ""
+                "iconDescription": "Proliferação de células gerando um aumento de espessura da lamela"
             }
         },
         {
             "id": "4",
-            "title": "",
-            "caption": "",
+            "title": "espessamento descontrolado do tecido proliferativo",
+            "caption": "O espessamento ocorre devido à proliferação de células de cloro e de células indiferenciadas",
             "image": "",
             "imageMeta": {
-                "label": "",
-                "magnification": "",
-                "stain": "",
+                "label": "Espessamento descontrolado do tecido proliferativo",
+                "magnification": "40X",
+                "stain": "(HE)",
                 "iconKey": "",
-                "iconDescription": ""
+                "iconDescription": "Proliferação de células ao longo do tecido"
             }
         },
         {
             "id": "5",
-            "title": "",
-            "caption": "",
+            "title": "hiperplasia e hipertrofia das células de muco",
+            "caption": "As células de muco são responsáveis pela proteção imunológica, pois possuem imunoglobinas e enzimas. A hipertrofia e hiperplasia dessas células formam um aumento da camada de muco apresentando um papel de proteção do tecido branquial.",
             "image": "",
             "imageMeta": {
-                "label": "",
-                "magnification": "",
-                "stain": "",
+                "label": "Hiperplasia e Hipertrofia das células de muco",
+                "magnification": "40X",
+                "stain": "(HE)",
                 "iconKey": "",
-                "iconDescription": ""
+                "iconDescription": "Aumento das camadas de muco"
             }
         },
         {
             "id": "6",
-            "title": "",
-            "caption": "",
+            "title": "fusão incompleta de várias lamelas",
+            "caption": "Ocasionada da hiperplasia das células epiteliais das lamelas e filamentos branquiais. A fusão parcial/incompleta ocorre quando a hiperplasia se restringir à base do filamento ou apenas a uma porção das lamelas",
             "image": "",
             "imageMeta": {
-                "label": "",
-                "magnification": "",
-                "stain": "",
+                "label": "Fusão incompleta de várias lamelas",
+                "magnification": "40X",
+                "stain": "(HE)",
                 "iconKey": "",
-                "iconDescription": ""
+                "iconDescription": "Hiperplasia restringida à base do filamento"
             }
         },
         {
             "id": "7",
-            "title": "",
-            "caption": "",
+            "title": "fusão completa de várias lamelas",
+            "caption": "A fusão constituirá total se a hiperplasia estiver ao longo dos filamentos em várias lamelas.",
             "image": "",
             "imageMeta": {
-                "label": "",
-                "magnification": "",
-                "stain": "",
+                "label": "Fusão completa de várias lamelas",
+                "magnification": "40X",
+                "stain": "(HE)",
                 "iconKey": "",
-                "iconDescription": ""
+                "iconDescription": "Hiperplasia presente ao longo de várias lamelas"
             }
         },
         {
             "id": "8",
-            "title": "",
-            "caption": "",
+            "title": "Fusão completa de todas a lamelas",
+            "caption": "A fusão constituirá total e completa se a hiperplasia estiver em todas as lamelas ao longo do filamento",
             "image": "",
             "imageMeta": {
-                "label": "",
-                "magnification": "",
-                "stain": "",
+                "label": "Fusão completa de todas as lamelas",
+                "magnification": "40X",
+                "stain": "(HE)",
                 "iconKey": "",
-                "iconDescription": ""
+                "iconDescription": "Hiperplasia presente ao longo de todo filamento causando uma fusão completa de todas as lamelas"
             }
         },
         {
             "id": "9",
-            "title": "",
-            "caption": "",
+            "title": "Necrose e degeneração celular",
+            "caption": "Morte celular que acompanha alterações morfológicas características. A necrose é uma lesão celular irreversível.",
             "image": "",
             "imageMeta": {
-                "label": "",
-                "magnification": "",
-                "stain": "",
+                "label": "Necrose/degeneração celular",
+                "magnification": "40X",
+                "stain": "(HE)",
                 "iconKey": "",
-                "iconDescription": ""
+                "iconDescription": "Necrose/degeneração celular"
             }
         },
         {
             "id": "10",
-            "title": "",
-            "caption": "",
+            "title": "Aneurisma lamelar",
+            "caption": "Acúmulo de sangue entre as lamelas secundárias, ocasionada pelo rompimento das células pilares, causando hemorragias.",
             "image": "",
             "imageMeta": {
-                "label": "",
-                "magnification": "",
-                "stain": "",
+                "label": "Aneurisma Lamelar ",
+                "magnification": "40X",
+                "stain": "(HE)",
                 "iconKey": "",
-                "iconDescription": ""
+                "iconDescription": "Aneurismas ao longo das lamelas"
             }
         }
     ]

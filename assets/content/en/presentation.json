@@ -1,0 +1,9 @@
+{
+  "title": "Presentation",
+  "headline": "Hi, welcome to HistoFishApp!!",
+  "paragraphs": [
+    "HistoFishApp is a mobile application focused on fish histopathology, highlighting the three main target organs of contamination: gills, liver, and kidney, presenting their respective histological alterations. The app was developed in collaboration with professors, researchers, and undergraduate students from the State University of Maranhão (UEMA), aiming to support studies in Aquatic Biomonitoring.",
+    "Its main authors are Analane Cristina Gomes Silva (Undergraduate in Biological Sciences), Débora Martins Silva Santos (PhD Professor, Department of Biology), Natália Jovita Pereira (Biologist), and (.........). The project is financially supported by the Institutional Program for Scholarships in Technological Development and Innovation (PIBITI–FAPEMA/UEMA) and by the Innovation and Entrepreneurship Agency MARANDU–UEMA."
+  ],
+  "closing": "We hope you enjoy HistoFishApp to the fullest!"
+}

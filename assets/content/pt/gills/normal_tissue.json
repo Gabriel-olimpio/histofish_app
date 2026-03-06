@@ -1,16 +1,16 @@
 {
     "organId": "gills",
     "title": "Tecido Normal",
-    "caption": "",
+    "caption": "Arco branquial formado por uma dupla fileira de filamentos que apresentam lamelas secundárias vascularizadas.",
     "image": "",
     "imageMeta": {
-        "label": "",
-        "magnification": "",
-        "stain": ""
+        "label": "Tecido branquial normal",
+        "magnification": "40.x",
+        "stain": "(HE)"
     },
     "keyFeatures": [
-        "Primeiro ponto ",
-        "Segundo Ponto ",
-        "Terceiro Ponto "
+        "1- Lamelas secundárias; ",
+        "2- Células pilares; ",
+        "3- Seio venoso"
     ]
 }

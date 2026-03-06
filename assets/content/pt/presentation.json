@@ -1,0 +1,9 @@
+{
+  "title": "Apresentação",
+  "headline": "Oi, bem-vindo(a) ao HistoFishApp!!",
+  "paragraphs": [
+    "O HistoFishApp é um aplicativo móvel voltado para a Histopatologia de peixes, destacando os três principais órgãos-alvo de contaminação: brânquias, fígado e rim, apresentando suas respectivas alterações histológicas. O aplicativo foi desenvolvido em colaboração com professores, mestres e estudantes de graduação da Universidade Estadual do Maranhão, voltado para auxiliar nos estudos de Biomonitoramento Aquático.",
+    "Seus principais autores são Analane Cristina Gomes Silva (Graduanda em Ciências Biológicas), Débora Martins Silva Santos (Professora Doutora do Departamento de Biologia), Natália Jovita Pereira (Bióloga) e (.........), sendo apoiado financeiramente pelo Programa Institucional de Bolsas de Iniciação em Desenvolvimento Tecnológico e Inovação PIBITI-FAPEMA/UEMA e pela Agência de Inovação e Empreendedorismo MARANDU-UEMA."
+  ],
+  "closing": "Esperamos que aproveite ao máximo o HistoFishApp!"
+}

@@ -46,7 +46,6 @@ class TargetOrgansPage extends StatelessWidget {
               final organ = catalog.items[index];
               return ListTile(
                 title: Text(organ.name),
-                subtitle: organ.description.isEmpty ? null : Text(organ.description),
                 onTap: () => context.push(AppPaths.organ(organ.id)),
               );
             },

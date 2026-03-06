@@ -4,17 +4,17 @@
         {
             "id": "gills",
             "name": "Gills",
-            "description": "some gills"
+            "descriptionParagraphs": ["some gills"]
         },
         {
             "id": "liver",
             "name": "Liver",
-            "description": "some livers"
+            "descriptionParagraphs": ["some livers"]
         },
         {
             "id": "kidney",
             "name": "Kidney",
-            "description": "some kidneys"
+            "descriptionParagraphs": ["some kidneys"]
         }
     ]
 }

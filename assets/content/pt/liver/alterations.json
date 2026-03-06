@@ -4,158 +4,158 @@
     "items": [
         {
             "id": "1",
-            "title": "",
-            "caption": "",
+            "title": "Núcleo na periferia da célula",
+            "caption": "Deslocamento do núcleo celular do centro para a borda da célula é observada empeixes como resposta a processos degenerativos, como o acúmulo de lipídeos no citoplasma,",
             "image": "",
             "imageMeta": {
-                "label": "",
-                "magnification": "",
-                "stain": "",
+                "label": "Núcleo na periferia da célula",
+                "magnification": "40X",
+                "stain": "(HE)",
                 "iconKey": "",
-                "iconDescription": ""
+                "iconDescription": "Deslocamentos do núcleo para as bordas das células"
             }
         },
         {
             "id": "2",
-            "title": "",
-            "caption": "",
+            "title": "Esteatose",
+            "caption": "Acúmulo anormal de lipídios (principalmente triglicerídeos) dentro dos hepatócitos com os núcleos geralmente deslocado para a periferia da célula.",
             "image": "",
             "imageMeta": {
-                "label": "",
-                "magnification": "",
-                "stain": "",
+                "label": "Esteatose",
+                "magnification": "40X",
+                "stain": "(HE)",
                 "iconKey": "",
-                "iconDescription": ""
+                "iconDescription": "Acúmulo de lipídeos"
             }
         },
         {
             "id": "3",
-            "title": "",
-            "caption": "",
+            "title": "Hipertrofia celular",
+            "caption": "Aumento anormal do volume celular, normalmente associado ao acúmulo de substâncias no citoplasmal.",
             "image": "",
             "imageMeta": {
-                "label": "",
-                "magnification": "",
-                "stain": "",
+                "label": "Hipertrofia celular",
+                "magnification": "40X",
+                "stain": "(HE)",
                 "iconKey": "",
-                "iconDescription": ""
+                "iconDescription": "Aumento anormal do volume celular"
             }
         },
         {
             "id": "4",
-            "title": "",
-            "caption": "",
+            "title": "Hiperemia",
+            "caption": "Aumento do volume de sangue nos vasos do tecido, geralmente por vasodilatação",
             "image": "",
             "imageMeta": {
-                "label": "",
-                "magnification": "",
-                "stain": "",
+                "label": "Hiperemia",
+                "magnification": "40X",
+                "stain": "(HE)",
                 "iconKey": "",
-                "iconDescription": ""
+                "iconDescription": "Grande volume de sangue no tecido hepático"
             }
         },
         {
             "id": "5",
-            "title": "",
-            "caption": "",
+            "title": "Ropimento Celular",
+            "caption": "Perda da integridade da membrana plasmática, levando à liberação do conteúdo celular.",
             "image": "",
             "imageMeta": {
-                "label": "",
-                "magnification": "",
-                "stain": "",
+                "label": "Rompimento Celular",
+                "magnification": "40X",
+                "stain": "(HE)",
                 "iconKey": "",
-                "iconDescription": ""
+                "iconDescription": "Perda da integridade da membrana plasmática"
             }
         },
         {
             "id": "6",
-            "title": "",
-            "caption": "",
+            "title": "Vacuolização",
+            "caption": "Formação de vacúolos no citoplasma das células. Pode ser adaptativa ou sinal de dano celular",
             "image": "",
             "imageMeta": {
-                "label": "",
-                "magnification": "",
-                "stain": "",
+                "label": "Vacuolização",
+                "magnification": "40X",
+                "stain": "(HE)",
                 "iconKey": "",
-                "iconDescription": ""
+                "iconDescription": "Vacúolos vazios no tecido hepático"
             }
         },
         {
             "id": "7",
-            "title": "",
-            "caption": "",
+            "title": "Infiltrado inflamatório",
+            "caption": "Presença anormal de células inflamatórias (neutrófilos, linfócitos, macrófagos) no parênquima hepático, geralmente em resposta à infecções.",
             "image": "",
             "imageMeta": {
-                "label": "",
-                "magnification": "",
-                "stain": "",
+                "label": "Infiltrado inflamatório",
+                "magnification": "40X",
+                "stain": "(HE)",
                 "iconKey": "",
-                "iconDescription": ""
+                "iconDescription": "Células inflamatórias"
             }
         },
         {
             "id": "8",
-            "title": "",
-            "caption": "",
+            "title": "Centro de melanomacrófagos",
+            "caption": "Agrupamento de células fagocitárias que contém pigmentos, como a melanina. O tamanho e a quantidade de CMMs podem aumentar em resposta ao estresse e doenças.",
             "image": "",
             "imageMeta": {
-                "label": "",
-                "magnification": "",
-                "stain": "",
+                "label": "Centro de Melanomacrófagos",
+                "magnification": "40X",
+                "stain": "(HE)",
                 "iconKey": "",
-                "iconDescription": ""
+                "iconDescription": "Agrupamento de células com pigmentos"
             }
         },
         {
             "id": "9",
-            "title": "",
-            "caption": "",
+            "title": "Estagnação biliar",
+            "caption": "Acúmulo ou redução do fluxo de bile nos canalículos biliares ou dentro dos hepatócitos",
             "image": "",
             "imageMeta": {
-                "label": "",
-                "magnification": "",
-                "stain": "",
+                "label": "Estagnação Biliar",
+                "magnification": "40X",
+                "stain": "(HE)",
                 "iconKey": "",
-                "iconDescription": ""
+                "iconDescription": "Acumulo de bile no tecido hepático"
             }
         },
         {
             "id": "10",
-            "title": "",
-            "caption": "",
+            "title": "Degeneração hidrópica",
+            "caption": "Lesão caracterizada elo acúmulo excessivo de água dentro do citoplasma das células hepáticas (hepatócitos)",
             "image": "",
             "imageMeta": {
-                "label": "",
-                "magnification": "",
-                "stain": "",
+                "label": "Degeneração Hidrópic",
+                "magnification": "40X",
+                "stain": "(HE)",
                 "iconKey": "",
-                "iconDescription": ""
+                "iconDescription": "Acumulo de água dentro do citoplasma"
             }
         },
         {
             "id": "11",
-            "title": "",
-            "caption": "",
+            "title": "Degeneração gordurosa",
+            "caption": "É o acúmulo anormal de lipídeos dentro do citoplasma dos hepatócitos.",
             "image": "",
             "imageMeta": {
-                "label": "",
-                "magnification": "",
-                "stain": "",
+                "label": "Degeneração Hidrópica",
+                "magnification": "40X",
+                "stain": "(HE)",
                 "iconKey": "",
-                "iconDescription": ""
+                "iconDescription": "Acúmulo grande de lipídeos dentro do citoplasma"
             }
         },
         {
             "id": "12",
-            "title": "",
-            "caption": "",
+            "title": "Necrose",
+            "caption": "Processo de morte celular ou tecidual.",
             "image": "",
             "imageMeta": {
-                "label": "",
-                "magnification": "",
-                "stain": "",
+                "label": "Necrose",
+                "magnification": "40X",
+                "stain": "(HE)",
                 "iconKey": "",
-                "iconDescription": ""
+                "iconDescription": "Lise Celular"
             }
         }
     ]

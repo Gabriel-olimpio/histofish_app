@@ -1,20 +1,32 @@
 {
-    "title": "Órgãos Alvo",
-    "items": [
-        {
-            "id": "gills",
-            "name": "Brânquias",
-            "description": "descrição branquial"
-        },
-        {
-            "id": "liver",
-            "name": "Fígado",
-            "description": "uns figados"
-        },
-        {
-            "id": "kidney",
-            "name": "Rim",
-            "description": "uns rins"
-        }
-    ]
+  "title": "Órgãos Alvo",
+  "items": [
+    {
+      "id": "gills",
+      "name": "Brânquias",
+      "descriptionParagraphs": [
+        "Estruturas que estão em contato direto com o meio externo e o principal órgão responsável pelas trocas gasosas.",
+        "Morfologicamente, as brânquias são compostas por quatro arcos branquiais bilaterais que são sustentados por tecido cartilaginoso, tecido ósseo e músculo esquelético. Partindo de cada arco branquial são encontrados dois filamentos primários branquiais, chamados de lamelas primárias, que são sustentadas por cartilagem.",
+        "Perpendicular à lamela primária são observadas as lamelas secundárias, revestidas por células pavimentosas (que vão aumentar a área de superfície representando um local que o oxigênio possa ser captado), células pilares (responsáveis por sustentar a estrutura e garantir a manutenção da circulação), células de cloreto (essenciais para o fornecimento de energia) e células mucosas (cuja função é produzir muco, um mecanismo de defesa natural).",
+        "Alterações nas células e estruturas histológicas são utilizadas para analisar danos causados devido à exposição a diferentes poluentes em peixes."
+      ]
+    },
+    {
+      "id": "liver",
+      "name": "Fígado",
+      "descriptionParagraphs": [
+        "O fígado dos peixes desempenha um papel essencial na regulação metabólica, no armazenamento de nutrientes e na desintoxicação de substâncias químicas. Ele está diretamente exposto aos efeitos de poluentes ambientais devido à sua função na metabolização de xenobióticos.",
+        "Morfologicamente, o fígado dos peixes é composto por hepatócitos, células estreladas hepáticas (CEH), células endoteliais e macrófagos hepáticos (chamados de células de Kupffer). Os hepatócitos são as principais células responsáveis pela síntese de proteínas, metabolismo de lipídios e carboidratos, além da biotransformação de substâncias tóxicas. As células estreladas atuam no armazenamento de vitamina A e na regulação da fibrogênese. Já as células de Kupffer desempenham um papel crucial na resposta imune e na remoção de detritos celulares e toxinas do organismo."
+      ]
+    },
+    {
+      "id": "kidney",
+      "name": "Rim",
+      "descriptionParagraphs": [
+        "O rim dos peixes teleósteos fica na parte de cima do corpo, próximo à coluna vertebral e é divido em rim cefálico, que contém células especiais chamada interrenais e cromafins, e a parte de trás que se conecta com as brânquias e o intestino, cuidando da excreção e do equilíbrio do corpo.",
+        "Sua estrutura é formada por néfrons, que possuem os glomérulos (local em que ocorre a filtragem do sangue) e túbulos renais, divididos em parte proximal, cheias de microvilos, e parte distal, sem esses microvilos.",
+        "Nos peixes de água doce, o rim ajuda a eliminar a urina bem diluída, com poucos eletrólitos e participa da regulação osmótica e hormonal."
+      ]
+    }
+  ]
 }

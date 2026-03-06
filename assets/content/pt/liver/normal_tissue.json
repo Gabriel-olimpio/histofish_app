@@ -1,16 +1,16 @@
 {
-    "organId": "liver",
-    "title": "",
-    "caption": "",
+    "organId": "kidney",
+    "title": "Tecido Normal",
+    "caption": "Fígado de peixe composto por cordões de hepatócitos poliédricos, organizados ao redor de sinusoides sanguíneos. Os núcleos são centrais, redondos e basofílicos, evidenciando intensa atividade celular",
     "image": "",
     "imageMeta": {
-        "label": "",
-        "magnification": "",
-        "stain": ""
+        "label": "Tecido normal de hepático ",
+        "magnification": "40X",
+        "stain": "(HE)"
     },
     "keyFeatures": [
-        "1 - ",
-        "2 - ",
-        "3 - "
+        "1- Hepatócitos;",
+        "2- Vasos sinusoides",
+        "3- Núcleo"
     ]
 }

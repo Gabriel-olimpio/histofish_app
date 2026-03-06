@@ -1,16 +1,17 @@
 {
     "organId": "kidney",
-    "title": "",
-    "caption": "",
+    "title": "Tecido Normal",
+    "caption": "Rim de peixe composto por numerosos túbulos renais, dispostos em cortes transversais, com lúmen central e células epiteliais cúbicas. Cada túbulo apresenta núcleos evidentes e citoplasma, organizados de forma compacta.",
     "image": "",
     "imageMeta": {
-        "label": "",
-        "magnification": "",
-        "stain": ""
+        "label": "Tecido Renal Normal",
+        "magnification": "40X",
+        "stain": "(HE)"
     },
     "keyFeatures": [
-        "1 - ",
-        "2 - ",
-        "3 - "
+        "1- Túbulo Renal Proximal",
+        "2- Túbulo Renal Distal",
+        "3- Células Epiteliais Mitóticas",
+        "4- Eritrócitos"
     ]
 }

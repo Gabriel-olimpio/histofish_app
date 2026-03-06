@@ -44,7 +44,7 @@ class OrganOverviewPage extends StatelessWidget {
           orElse: () => OrganItem(
             id: organId,
             name: organId,
-            description: '',
+            descriptionParagraphs: [],
           ),
         );
 
@@ -58,12 +58,17 @@ class OrganOverviewPage extends StatelessWidget {
             child: Column(
               crossAxisAlignment: CrossAxisAlignment.start,
               children: [
-                if (organ.description.isNotEmpty) ...[
-                  Text(
-                    organ.description,
-                    style: Theme.of(context).textTheme.bodyMedium,
+                if (organ.descriptionParagraphs.isNotEmpty) ...[
+                  ...organ.descriptionParagraphs.map(
+                    (p) => Padding(
+                      padding: const EdgeInsets.only(bottom: 12),
+                      child: Text(
+                        p,
+                        style: Theme.of(context).textTheme.bodyMedium,
+                      ),
+                    )
                   ),
-                  const SizedBox(height: 16),
+                  const SizedBox(height: 8),
                 ],
 
               
